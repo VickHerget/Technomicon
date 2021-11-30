@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# technomicon
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Technomicon
->>>>>>> e70f518fc3bd56880bf8bce51094aecbfa27a32b
+
+Technomicon é um projeto da empresa EzAppily para pesquisa estudantil na área de tecnologia da informação.
+
+## Grupo:
+
+•	Felipe Tallmann
+•	Maria Sallete Nascimento Carvalho
+•	Daniel Dantas da Silva
+•	José Victor Soares Herget da Silva
+•	Gustavo Henrique de Lima
+•	Daniel dos Santos Lopes
+•	Yandehara Barbosa Silva
+•	Alex Silva Santos
+•	Geovane Alves de Carvalho 
